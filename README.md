@@ -1,2 +1,7 @@
-# Healthcare-DAPP
-Here is a simple healthcare DAPP that can be used by any doctor. It shows each patient record, the treatment, diagnosis, and can authorize providers. 
+In the main directory, run `npm install`
+
+Update the smart contract address and abi in Healthcare.js file.
+
+After updated, run `npm start`
+
+Run the DAPP
